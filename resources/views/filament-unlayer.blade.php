@@ -6,7 +6,7 @@
 >
     <div
         ax-load
-        ax-load-src="{{ FilamentAsset::getAlpineComponentSrc('filament-unlayer', 'InfinityXTech/filament-unlayer') }}"
+        ax-load-src="{{ FilamentAsset::getAlpineComponentSrc('filament-unlayer', 'vati/filament-unlayer') }}"
         x-data="initUnlayer({
             state: $wire.entangle('{{ $getStatePath() }}'),
             displayMode: '{{ $getDisplayMode() }}',

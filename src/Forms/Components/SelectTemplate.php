@@ -1,10 +1,10 @@
 <?php
 
-namespace InfinityXTech\FilamentUnlayer\Forms\Components;
+namespace Vati\FilamentUnlayer\Forms\Components;
 
 use Filament\Forms;
 use Filament\Forms\Components\Select;
-use InfinityXTech\FilamentUnlayer\Services\GetTemplates;
+use Vati\FilamentUnlayer\Services\GetTemplates;
 
 class SelectTemplate extends Select
 {

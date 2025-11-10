@@ -1,6 +1,6 @@
 <?php
 
-namespace InfinityXTech\FilamentUnlayer;
+namespace Vati\FilamentUnlayer;
 
 use Filament\Support\Assets\AlpineComponent;
 use Filament\Support\Assets\Asset;
@@ -50,7 +50,7 @@ class UnlayerServiceProvider extends PackageServiceProvider
 
     protected function getAssetPackageName(): ?string
     {
-        return 'InfinityXTech/filament-unlayer';
+        return 'vati/filament-unlayer';
     }
 
     /**

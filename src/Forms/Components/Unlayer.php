@@ -1,6 +1,6 @@
 <?php
 
-namespace InfinityXTech\FilamentUnlayer\Forms\Components;
+namespace Vati\FilamentUnlayer\Forms\Components;
 
 use Filament\Forms\Components\Field;
 

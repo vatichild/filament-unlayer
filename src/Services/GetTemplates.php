@@ -1,6 +1,6 @@
 <?php
 
-namespace InfinityXTech\FilamentUnlayer\Services;
+namespace Vati\FilamentUnlayer\Services;
 
 use Illuminate\Support\Facades\Http;
 
